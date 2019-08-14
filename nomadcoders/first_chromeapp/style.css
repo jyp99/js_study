@@ -1,3 +1,9 @@
 @charset "utf-8";
 h1{color:#555}
 .clicked{color:orange}
+.form,.greetings{
+    display: none;
+}
+.showing{
+    display: block;
+}
